@@ -1,0 +1,9 @@
+body{
+    background-color: silver;
+}
+div {
+    background-color: blueviolet;
+    color: whitesmoke;
+    border: dashed 2px silver;
+    
+}
